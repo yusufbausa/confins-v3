@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Collection Expense Approval - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ac4882d-135a-4ada-b928-4519dd20ead2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc99ef6c-51ac-4670-a2f1-6f0b53ac83fa</id>
+      <masked>false</masked>
+      <name>usernameAR</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>988f9c4b-bab8-4f98-995c-2e0e9d3ef2c3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b664bce-865f-46fb-9b5c-4d079a42b2bb</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10f5a673-de69-4f01-ac9b-150712f72be2</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>2815c50e-b8df-4a8a-b693-4dfd1c744592</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

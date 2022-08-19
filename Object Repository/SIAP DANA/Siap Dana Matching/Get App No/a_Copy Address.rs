@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Copy Address</name>
+   <tag></tag>
+   <elementGuidId>4b2d2c72-f24b-4fb1-b267-2754777d01d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#lb_Form_CopyAddr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='lb_Form_CopyAddr']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3607e31-66df-490e-9796-b17340cadee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lb_Form_CopyAddr</value>
+      <webElementGuid>c8300749-4676-4390-b421-c566e2eb4379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0be9d1f4-b28e-4c8b-a3a8-001f52f23064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lb_Form_CopyAddr&quot;, &quot;&quot;, true, &quot;vgCopyAddr&quot;, &quot;&quot;, false, true))</value>
+      <webElementGuid>3f49d99e-6820-4243-9384-e9671590ff72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy Address</value>
+      <webElementGuid>f8e0e89f-1f08-4e50-b157-f8324738c7f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lb_Form_CopyAddr&quot;)</value>
+      <webElementGuid>ebfad5d0-0c77-4c50-9958-ee1d4ea265f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SIAP DANA/Siap Dana Matching/Get App No/iframe_Term  Condition_appForm</value>
+      <webElementGuid>b424770e-6ea3-42dc-ba9e-cb64f8ede28b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='lb_Form_CopyAddr']</value>
+      <webElementGuid>23011277-51d6-4b56-a1ba-09747ac4d67f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dMailingAddr']/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>caed1f8c-3cee-46ae-9fe2-b90668ae2c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Copy Address')]</value>
+      <webElementGuid>4693efcf-4350-415d-a5a8-36975208d81d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy Address From'])[1]/following::a[1]</value>
+      <webElementGuid>9ff3bfb2-ad20-42b9-b451-fffdec5832f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mailing Address'])[1]/following::a[1]</value>
+      <webElementGuid>70fc9b85-84cb-41de-ab5d-f5c80ea5a82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::a[1]</value>
+      <webElementGuid>4bbd7c41-0474-4e3c-a375-0efa8dc5c3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[10]/preceding::a[1]</value>
+      <webElementGuid>4d4b2111-51a6-4362-9670-8b658c68367b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copy Address']/parent::*</value>
+      <webElementGuid>e7615f2b-3364-4889-b10d-8fa848a49452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lb_Form_CopyAddr&quot;, &quot;&quot;, true, &quot;vgCopyAddr&quot;, &quot;&quot;, false, true))')]</value>
+      <webElementGuid>e7e51db2-90cb-4e4c-952e-62e90416698a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>b978e4b8-ba05-40bb-b6d9-31784dc81e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'lb_Form_CopyAddr' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lb_Form_CopyAddr&quot;, &quot;&quot;, true, &quot;vgCopyAddr&quot;, &quot;&quot;, false, true))' and (text() = 'Copy Address' or . = 'Copy Address')]</value>
+      <webElementGuid>83035f04-7a11-4a69-8cdc-8f38f806f1ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

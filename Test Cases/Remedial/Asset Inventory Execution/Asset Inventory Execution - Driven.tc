@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Asset Inventory Execution - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35308406-c134-4ca0-9ded-811cc97af452</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>b729fe68-9bc3-4ba9-b87c-462a8b3d39cd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00d6b7a2-5ca6-427d-9b50-abba82fe2d00</id>
+      <masked>false</masked>
+      <name>usernameRA1</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>487665fd-168a-484f-83c4-01c2e3021748</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>769692df-2549-4d5a-bd7c-1130fb3610ca</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+</TestCaseEntity>

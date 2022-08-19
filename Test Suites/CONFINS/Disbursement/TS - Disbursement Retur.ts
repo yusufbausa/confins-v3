@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS - Disbursement Retur</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>120</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c16b4693-7223-4fd1-bbac-afd5734d62eb</testSuiteGuid>
+   <testCaseLink>
+      <guid>a4eeab4c-dce3-4f99-b439-e4d22b453118</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Disbursement/Disbursement Retur/Disbursement Retur Request</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8732d25b-966a-4068-b9ae-c20b730097fd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Disbursement/Disbursement Retur</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8732d25b-966a-4068-b9ae-c20b730097fd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>eff8061d-a572-4e56-b036-3e5d58007243</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8732d25b-966a-4068-b9ae-c20b730097fd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>usernameFH</value>
+         <variableId>f3d84fab-d66a-4962-879f-1b945f8a3054</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8732d25b-966a-4068-b9ae-c20b730097fd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>1263f5a8-74e4-4fc8-ba14-8becbd4a7daa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8732d25b-966a-4068-b9ae-c20b730097fd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>agreeNo</value>
+         <variableId>38e634f5-d906-4682-b18f-c2265b69225e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8732d25b-966a-4068-b9ae-c20b730097fd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>notes</value>
+         <variableId>e3bf0b1d-cb39-4c6c-8ec0-b9e29de40680</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

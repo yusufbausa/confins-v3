@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_all_risk_2</name>
+   <tag></tag>
+   <elementGuidId>8fe3e4ca-415f-4997-a601-366063fa48ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ucInsrateSimulation_rptMainCvgType_ctl02_ucRefMainCvgType_ddlReference</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ucInsrateSimulation_rptMainCvgType_ctl02_ucRefMainCvgType_ddlReference']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[3]/div[2]/div[1]/div[6]/div[1]/div/div[2]/div[2]/table/tbody/tr[10]/td[5]/select[count(. | //*[@ref_element = 'Object Repository/Credit Simulation/iframe_Welcome, TITO ARI PRABOWO, TANGERANG_7a5bd7']) = count(//*[@ref_element = 'Object Repository/Credit Simulation/iframe_Welcome, TITO ARI PRABOWO, TANGERANG_7a5bd7'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ucInsrateSimulation$rptMainCvgType$ctl02$ucRefMainCvgType$ddlReference</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>javascript:setTimeout('__doPostBack(\'ucInsrateSimulation$rptMainCvgType$ctl02$ucRefMainCvgType$ddlReference\',\'\')', 0)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ucInsrateSimulation_rptMainCvgType_ctl02_ucRefMainCvgType_ddlReference</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Select One
+		ALL RISK
+		TLO
+
+	</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[3]/div[2]/div[1]/div[6]/div[1]/div/div[2]/div[2]/table/tbody/tr[10]/td[5]/select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Credit Simulation/iframe_Welcome, TITO ARI PRABOWO, TANGERANG_7a5bd7</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ucInsrateSimulation_rptMainCvgType_ctl02_ucRefMainCvgType_ddlReference']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ucInsrateSimulation_upRptCustRate']/table/tbody/tr[10]/td[5]/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[38]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[37]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This field is required'])[23]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[39]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[5]/select</value>
+   </webElementXpaths>
+</WebElementEntity>

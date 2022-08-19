@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>appNumber</name>
+   <tag></tag>
+   <elementGuidId>6e0b933d-dae0-4d1b-9807-ebd11db7b04f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[3]/div[3]/div[1]/div[3]/table/tbody/tr[1]/td[2]/a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/New Application (NEW)/Other Data and Term n Condition/iframe_Welcome, ANGGO BAGUS WICAKSONO, TANG_7b644c</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Borrow Execution Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b791be5-e337-4a00-b08a-6cd3b5f28adc</testCaseGuid>
+   <variable>
+      <defaultValue>'DMN1556'</defaultValue>
+      <description></description>
+      <id>bbc7dae1-44af-4676-a01f-b16adedc3ecc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>73676874-7705-4421-b2ee-92d657d7f905</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eb549516-3666-4bee-a36f-504c62ea0ba5</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>bc9ab947-02c0-493c-b770-383c22bcd110</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

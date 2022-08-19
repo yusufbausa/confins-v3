@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change Due Date</description>
+   <name>Request CDD - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e7ccf47-a932-4bbb-a568-83498d2534b2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5e9658d-7714-43a2-ace1-a3fd00deb2f0</id>
+      <masked>false</masked>
+      <name>usernameReq</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e1f31424-0162-45ba-b8c4-2dc1e979edac</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e18aab02-3c22-49d0-a7eb-36edbbb1018a</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>274f91d6-9df7-4e50-9d5d-d5d8c6fcfd49</id>
+      <masked>false</masked>
+      <name>newDueDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>a179d82f-d67e-4d5f-841c-aa2eb415a372</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7cf0362f-6153-442d-9043-9ffa201a2ab0</id>
+      <masked>false</masked>
+      <name>approvedBy</name>
+   </variable>
+</TestCaseEntity>

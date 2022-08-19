@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>App Inquiry - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>646fa670-66e9-4424-89f3-b323164bebe1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bcc8f321-1ef5-47f7-852e-0b3cdbebbf4d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a09f1e8-8da3-445b-9163-c79d9043947b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b1731c9-44a8-454c-b445-cc077aeaa917</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>b812d3da-4427-4bcd-8a0f-8209c6b9942e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

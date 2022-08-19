@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Approval CDD - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b89c631-4350-43d6-b80b-e575a236be07</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>1673abb2-9dcd-4b65-8076-ed01f21d9eb1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b0b0504c-bda7-442d-bbcf-f1a6c7687eeb</id>
+      <masked>false</masked>
+      <name>usernameAppr</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6bf6c10-a207-4e53-b791-f95c9b67d57a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>553eea0c-014a-4e04-8b12-652fd1970721</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+</TestCaseEntity>

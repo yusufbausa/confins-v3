@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remedial Expense Reversal - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42f21ed3-d0b8-47cb-a94d-8f25fa54d5e5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d30586a-1c9d-4c44-8994-1603388106ee</id>
+      <masked>false</masked>
+      <name>usernameCollector</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>80f3e834-00a3-4288-96e1-8f242919ea58</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>68e474a4-8763-4d25-bf87-0d1c001f82ba</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b44302a5-6107-44f7-8dc5-b83da78ff0d8</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>213b7994-26ef-4730-b555-13515924b236</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

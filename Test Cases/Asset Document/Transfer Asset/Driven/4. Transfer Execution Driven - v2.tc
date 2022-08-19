@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Transfer Execution Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed39095b-dfdd-46bf-9e3b-7d445c390bd6</testCaseGuid>
+   <variable>
+      <defaultValue>'SUG0793'</defaultValue>
+      <description></description>
+      <id>c68b629f-dc03-47b2-9620-1d7aa9285bf7</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>5410d31f-9a91-4a39-bd26-8cbabd9a70af</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e7e49ace-5608-4038-b9e8-da3a69645c6e</id>
+      <masked>false</masked>
+      <name>reqNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>92e3ffaf-7fba-48f6-a6fc-cdcb3add260b</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

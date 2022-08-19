@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Document Checklist - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63127a44-558b-4830-9666-8c3d7172765f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>36efc30f-073b-4f81-86b2-2a385a0557d7</id>
+      <masked>false</masked>
+      <name>usernameDC</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b1b79253-7140-40e4-8785-5c0bb9b9dda4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>888288bd-9dcd-422f-b820-74c4cb25f5b7</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>8b9aeaba-8702-458e-8c42-947bceee5fae</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_menu_spv_activity</name>
+   <tag></tag>
+   <elementGuidId>a81d73a2-eb54-4856-bd2c-21df1204c885</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rtMid.rtHover > a.rtIn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='return false'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dab27e19-f949-4b59-a267-d4a4b99399ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rtIn</value>
+      <webElementGuid>b6712af8-893f-4a9d-94b6-2924d6bd2f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false</value>
+      <webElementGuid>6840c035-1c9c-431d-a9af-2caed2b3f4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Coll/Administration/SupervisorActivity.aspx?param=coll</value>
+      <webElementGuid>7340de73-a7b3-4246-a2d3-db8a1c593505</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Supervisor Activity</value>
+      <webElementGuid>58354a56-9e77-415a-a8e7-981ae5b661ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[4]/div[2]/div/ul/li[4]/div/a</value>
+      <webElementGuid>2e64228a-64c5-4e5e-9758-7e62b113a99b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/COLLECTION/Escalate Bucket/Escalate Bucket DERO Request/iframe_Welcome, ARIF BUDIARTO, National Des_22dae8</value>
+      <webElementGuid>054f4ab9-ee81-42a8-a149-70166fd686f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='return false'])[4]</value>
+      <webElementGuid>1a8924ec-446b-4a08-9d13-c12ee69db63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rtvMenuTree']/ul/li[4]/div/a</value>
+      <webElementGuid>08ac16da-e12c-471b-ac5e-c1fc40c4c2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Supervisor Activity')]</value>
+      <webElementGuid>efcd52fc-4a77-4886-a2d0-8aaaf8556b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Customer Address'])[1]/following::a[1]</value>
+      <webElementGuid>bfad4218-adaa-4927-b954-2543efd81c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Early Warning System'])[1]/following::a[2]</value>
+      <webElementGuid>a25faa58-882a-4430-a47e-2f63f9930e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow Up Tele Greeting'])[1]/preceding::a[1]</value>
+      <webElementGuid>45702b01-91a7-4064-80b6-e5a16661661f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uploader Result Remark Whatsapp'])[1]/preceding::a[2]</value>
+      <webElementGuid>c170d48f-25b2-446f-b98d-f6e3b4593384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Supervisor Activity']/parent::*</value>
+      <webElementGuid>38df4706-c26d-4fff-a6d0-52e524173b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Coll/Administration/SupervisorActivity.aspx?param=coll')]</value>
+      <webElementGuid>ecf2ae0d-aeb6-4b87-9d16-430d5b072961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/a</value>
+      <webElementGuid>d855a11f-67ef-457d-80b1-884afe2691d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Coll/Administration/SupervisorActivity.aspx?param=coll' and (text() = 'Supervisor Activity' or . = 'Supervisor Activity')]</value>
+      <webElementGuid>130bfbba-19f5-4a4d-aa21-c47253212532</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

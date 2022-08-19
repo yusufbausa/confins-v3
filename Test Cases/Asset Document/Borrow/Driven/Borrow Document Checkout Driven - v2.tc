@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Borrow Document Checkout Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1982acb9-c5af-48b9-a630-c3b5823818ce</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>aa573e6a-3fba-4fc7-8959-92f921cf04bb</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'DMN1556'</defaultValue>
+      <description></description>
+      <id>990b2248-0546-4ec2-ace5-a7c09c260871</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>85c3f053-e6cc-406d-ba07-75b4cdc65a18</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>151b1a77-6a76-4b11-aa30-4bd1c1777aeb</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+</TestCaseEntity>

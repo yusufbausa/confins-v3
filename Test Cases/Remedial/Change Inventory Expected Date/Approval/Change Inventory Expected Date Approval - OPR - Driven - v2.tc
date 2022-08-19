@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Inventory Expected Date Approval - OPR - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>011e9e78-b6f2-4cc1-953f-7ce48131ce63</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-qa.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>21b4c39f-4b7a-49cb-9520-08f281509daf</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'AJW1423'</defaultValue>
+      <description></description>
+      <id>f0e0b1eb-82b9-446e-b614-c9848a0600a7</id>
+      <masked>false</masked>
+      <name>usernameApprOPR</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>3ee7192e-7c22-4566-9343-6bbe5834bf11</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1813049052'</defaultValue>
+      <description></description>
+      <id>de9d7906-af43-4fb6-818c-5a33cafc8226</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>67452ea0-2157-4491-98a0-1244cfc2a4af</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inquiry Verify NoSi NoKa</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>17390b31-b7a2-4370-9f6d-f9e2bf643ab4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33419b0d-8ce3-4e99-b37f-9a6f96cdcff5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1744af34-0b65-46d7-930b-31ff08b29215</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e829f8fc-c237-4e87-9127-8e82856c6c75</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8dd56375-6701-4fcc-8d26-d327bda570ef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://confins-qa.taf.co.id/confins'</defaultValue>
+      <description></description>
+      <id>33419b0d-8ce3-4e99-b37f-9a6f96cdcff5</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'AAZ0049'</defaultValue>
+      <description></description>
+      <id>1744af34-0b65-46d7-930b-31ff08b29215</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>e829f8fc-c237-4e87-9127-8e82856c6c75</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Zisimos Valavanis Six'</defaultValue>
+      <description></description>
+      <id>8dd56375-6701-4fcc-8d26-d327bda570ef</id>
+      <masked>false</masked>
+      <name>custName</name>
+   </variable>
+</TestCaseEntity>

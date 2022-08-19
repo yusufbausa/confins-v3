@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Release Approval Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d98e3fd7-56f8-4f5a-8aa0-8978150011da</testCaseGuid>
+   <variable>
+      <defaultValue>'SUG0793'</defaultValue>
+      <description></description>
+      <id>013fafa1-f39d-4498-96a1-1b37e9ea7a17</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>75641eca-b7e3-476f-98dc-6cf656620a4d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a34b6461-c690-4c9d-a105-3641b106e416</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>6f9abae8-b7d1-443f-a850-d68ea5ce2d79</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f65390a1-d174-4dcf-9d0b-322182fe8ebd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Input Remedial Deal Amount - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1805f550-51ca-44b5-8e9b-d1ca3d02df63</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab5ee748-d94a-4bf9-8d80-7808a1af0464</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79809f45-694e-42a6-b025-19a2f39a3b19</id>
+      <masked>false</masked>
+      <name>usernameRA1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc9a76a8-b2e1-4ceb-82ee-b0f66f365506</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f34abf30-664c-4632-b90a-7fbb8b42c93f</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9bbf041a-2b6c-4ca3-8b7d-512656806aad</id>
+      <masked>false</masked>
+      <name>dealAmount</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>abcc8095-3cad-476a-b316-fcd944d8f2ee</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

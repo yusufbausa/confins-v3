@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delivery Order Multi - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d733478-cfa1-4e48-b789-7d8a690821e4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>487fd078-3623-4964-ace1-12c21fc73c50</id>
+      <masked>false</masked>
+      <name>usernameDO</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45c7d239-707a-4df8-ab86-cd7d176d8d8e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3ab45c8-6f89-42f0-8776-9a5a2a9772e6</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f024c23f-617a-4b4e-ae6c-70b37a05eba0</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4322da7-aeae-4ed7-8b1a-5116ad28d88a</id>
+      <masked>false</masked>
+      <name>docNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>690c249e-70fa-43ba-bce8-d0e18c0826d5</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

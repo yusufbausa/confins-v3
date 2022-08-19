@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Borrow Request Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eab731c9-d19b-4913-95e7-733bc7863736</testCaseGuid>
+   <variable>
+      <defaultValue>'DMN1556'</defaultValue>
+      <description></description>
+      <id>9d32e99d-cf3e-43b7-9330-02ca40815180</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>bf2abe5d-8022-4313-9287-5b8088bf7975</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa95a316-2132-4279-94e4-c07dce93ee49</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'PT Maju Kedepan'</defaultValue>
+      <description></description>
+      <id>50eb3d80-ffed-4618-a49c-36ebd6818c26</id>
+      <masked>false</masked>
+      <name>borrower</name>
+   </variable>
+   <variable>
+      <defaultValue>'01/05/2021'</defaultValue>
+      <description></description>
+      <id>47a98b6c-3219-4baf-a2f7-cc2678c768db</id>
+      <masked>false</masked>
+      <name>returnDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3e43882f-f9b0-48ba-abbf-297053ebc91a</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>7e504f41-330e-4c50-af2a-a18b27dbaacd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>091193ac-cf14-4d5d-a86a-d96140cf283a</id>
+      <masked>false</masked>
+      <name>approvedBy</name>
+   </variable>
+</TestCaseEntity>

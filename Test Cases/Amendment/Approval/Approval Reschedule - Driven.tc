@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Approval Reschedule - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d5fe2b6-d931-44a3-a7fb-963a428049c0</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>7b9716b9-038b-4d76-a7a6-1fb4c98809df</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d9e9163-c150-4a8d-96e1-cba15113ac25</id>
+      <masked>false</masked>
+      <name>usernameAppr</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6d68b401-7299-4662-97d1-0a43f8b2cb74</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a12c915-07fc-4b8b-9536-c83588a33fa3</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d848749a-5f9b-4082-913f-3659fb8bba31</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

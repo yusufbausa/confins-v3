@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remedial Deal Amount Approval - Dept. Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c799cce6-3146-4efc-8a6b-e7f74b6f5b40</testCaseGuid>
+   <variable>
+      <defaultValue>'https://confins-qa.taf.co.id/confins'</defaultValue>
+      <description></description>
+      <id>bdec25a3-8291-4d10-8636-34f99784279d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'TWA0223'</defaultValue>
+      <description></description>
+      <id>351e4f2b-d6b7-4b1c-b914-87a84116cd0e</id>
+      <masked>false</masked>
+      <name>usernameDH</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>b603ce81-0acc-4651-92a3-c874694200e2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'2119904851'</defaultValue>
+      <description></description>
+      <id>01d35daf-2231-43a9-be2c-ac39baba5193</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>725927a4-640c-4f45-a5a1-cb4430f3f866</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

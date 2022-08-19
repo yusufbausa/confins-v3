@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Inventory Head Approval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30b41119-4c6b-4883-b8db-977f63a64b4b</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>507f32ad-d102-4ae2-bbca-531fdbeaf45c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04329e8d-48a5-430d-9528-cb2693514600</id>
+      <masked>false</masked>
+      <name>usernameARM</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>92195090-2f2a-4cad-8f3d-e0d6f13165eb</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a4723775-69ac-451f-994a-9b90d43efbed</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>637dc3da-3350-4cb4-a4c2-74be4cdaad87</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

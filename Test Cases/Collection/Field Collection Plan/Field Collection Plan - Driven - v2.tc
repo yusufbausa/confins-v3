@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Field Collection Plan - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>975ba4aa-bcd4-43ed-ab48-5fb18debf5a6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4884626c-dd4d-4990-a179-145aa61171de</id>
+      <masked>false</masked>
+      <name>usernameCollector</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7a74e0a-0a75-4408-b4e2-e612d1cfb3c3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6f18a59-4e45-4574-a28c-f784f1708c39</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cdcf0845-9af9-4a49-ad46-28a4477df83e</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>ddcd9e50-0fd3-4e8f-a598-bd3b8c6ad830</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

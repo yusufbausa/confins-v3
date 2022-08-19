@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delivery Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0afc9377-8600-430c-af13-45bbfd6bc572</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da330102-9e62-4b9c-b971-d12f104a4dad</id>
+      <masked>false</masked>
+      <name>usernameDO</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4181f373-cd6d-42ee-b54b-5d15ff6f1f6f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>766abbea-7149-4647-a748-ade69bff9b7d</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+</TestCaseEntity>

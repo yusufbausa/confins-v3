@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RAL Request by Collector - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a3f7ac5-a957-480b-85a9-02e5a9a2f666</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b199f175-f6eb-4ba1-98da-9932902cc17b</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7f19b84-5f2e-46b2-8d79-b95b04d7a485</id>
+      <masked>false</masked>
+      <name>usernameRA1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>deb0b196-8851-493a-974e-2c75b0380cb0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91e054a9-8eb5-47a1-b36a-425401602225</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>402fb375-3539-401c-a259-f49edfdeee04</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

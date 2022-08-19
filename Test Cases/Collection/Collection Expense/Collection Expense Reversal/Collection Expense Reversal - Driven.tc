@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Collection Expense Reversal - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2dd78d0-b554-4ddc-8647-a7ee62161081</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2e387559-742e-4bdf-80b9-7401c645f131</id>
+      <masked>false</masked>
+      <name>usernameAR</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2b3b93e3-dbb7-46b3-abbf-8b38a4880d4c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>039333da-2daa-453b-8d16-8c868634729e</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b81e93f9-565b-4bb7-b6ce-de8cb7f783ff</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>e3cf464c-c726-4ec0-948e-3add3efbdab1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

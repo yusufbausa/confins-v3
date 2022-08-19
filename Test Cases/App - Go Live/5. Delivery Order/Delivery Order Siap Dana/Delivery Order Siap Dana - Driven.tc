@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delivery Order Siap Dana - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e761a6b9-5991-4b89-b875-a0cd0dab0b84</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>e1b0b5d4-2d1e-4a7c-9922-5eea67808812</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2105ea5-a097-4e13-97d5-9e9bffa18e98</id>
+      <masked>false</masked>
+      <name>usernameDO</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>a076aff9-e45b-435b-9041-79e5a9ff87b6</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>68b40815-48dc-4595-8636-a902d532e7e3</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06d4787e-d4ef-421a-8f83-cb3ac864ddee</id>
+      <masked>false</masked>
+      <name>taxDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d9be0a3e-a014-45fd-aa7f-510c46029e23</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

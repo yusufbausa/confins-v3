@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RAL Req by Supervisor - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1655b8c-c12c-4161-8529-6722a6bc9547</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>e4b30084-06a1-4238-be2a-d72144f4976f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7aa8ee2-4068-45d3-b3b7-32a0b71de4d9</id>
+      <masked>false</masked>
+      <name>usernameAR</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5d0d36d-3e45-4532-8a73-d73df051f4b9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e77ae2c1-ccf9-42ec-a6ce-e2dac0b0e9e3</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>29cdbf0b-251b-474d-b578-95714d977879</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>879a5e80-dfc5-4e28-83e3-b867e2ad1e09</id>
+      <masked>false</masked>
+      <name>ralExecutor</name>
+   </variable>
+</TestCaseEntity>

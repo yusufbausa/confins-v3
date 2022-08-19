@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Waived Transaction Request - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53d7a109-7998-4745-8abe-b8dae7d3db23</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>db28ae02-efd4-4961-b764-493981810387</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30b6cf8a-433c-4291-b8c1-1b6172d2306d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa2e73a5-1a9c-4b0d-b60a-0d0509334871</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d8f1e47-215f-492b-9192-4a7df1960a9a</id>
+      <masked>false</masked>
+      <name>waivePercent</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a9fadaf7-55ed-42d2-bd5c-998499d750f7</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>7b3b9034-aead-40e9-9c82-794bed64dcb1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'303980'</defaultValue>
+      <description></description>
+      <id>f3bcb0e1-6f07-4d6e-bc8c-f5804ff9a07e</id>
+      <masked>false</masked>
+      <name>approvedBy</name>
+   </variable>
+</TestCaseEntity>

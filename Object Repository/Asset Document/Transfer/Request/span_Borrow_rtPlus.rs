@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Borrow_rtPlus</name>
+   <tag></tag>
+   <elementGuidId>74e7c78b-162c-4306-8f5e-32bafcefb95d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rtvMenuTree']/ul/li[2]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rtMid > span.rtPlus</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[4]/div[2]/div/ul/li[2]/div/span[2][count(. | //*[@ref_element = 'Object Repository/Asset Document/Transfer/Request/iframe_Welcome, SUGIHARTINI, TANGERANG, CUS_b1e5f2']) = count(//*[@ref_element = 'Object Repository/Asset Document/Transfer/Request/iframe_Welcome, SUGIHARTINI, TANGERANG, CUS_b1e5f2'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rtPlus</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[4]/div[2]/div/ul/li[2]/div/span[2]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Asset Document/Transfer/Request/iframe_Welcome, SUGIHARTINI, TANGERANG, CUS_b1e5f2</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rtvMenuTree']/ul/li[2]/div/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

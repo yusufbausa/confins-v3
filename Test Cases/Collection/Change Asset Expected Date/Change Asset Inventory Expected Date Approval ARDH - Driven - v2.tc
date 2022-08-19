@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Asset Inventory Expected Date Approval ARDH - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2a10ecf-5fe8-4ac3-b501-f97d1ed857d9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6380be5d-6d5d-4c11-afae-eaf450c42ec8</id>
+      <masked>false</masked>
+      <name>usernameARDH</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>460cd8e4-04f0-49c7-9d4e-ccaa33354f99</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1bbb17a6-6f86-49f9-975e-7c73701f7a0d</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23832cd5-db86-472f-93c4-538a02b40f01</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>60f5a320-839f-49b0-8f41-a45aa99651c0</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

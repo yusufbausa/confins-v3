@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase Order - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2bf8bc9-b249-4859-8bdf-dfa26b3092f0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7062d6d7-a240-4bc3-9f1b-830bf519fc7c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43019048-e89b-4027-9f3a-1300d0f7df23</id>
+      <masked>false</masked>
+      <name>usernamePO</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62940283-02b5-4e1b-8128-337e277c9fb2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9123664f-ff00-45e4-8f7b-1490138778f6</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase Order Siap Dana - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>063b62f0-2002-40d2-8765-273c8cd03490</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>0e612830-5f67-4c37-9199-151264b3af36</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7aedbbca-cbe6-4e4c-886f-bcdcb8056795</id>
+      <masked>false</masked>
+      <name>usernamePO</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>832a9dc9-6824-4a80-a170-01cfddc27c67</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ad9b7c19-02e6-4ecb-987f-d2e0e4a713af</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c2f17f9-af47-458a-b6ba-38796be8956e</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>547f17f4-5bb0-4346-8020-d0c5db4ab76e</id>
+      <masked>false</masked>
+      <name>goLivePlanDate</name>
+   </variable>
+</TestCaseEntity>

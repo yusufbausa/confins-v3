@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>expand_menu_remedial_deal_amount</name>
+   <tag></tag>
+   <elementGuidId>33167781-f016-4c41-9a7b-97c0501f1581</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rtBot > span.rtPlus</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[4]/div[2]/div/ul/li[6]/div/span[2][count(. | //*[@ref_element = 'Object Repository/REMEDIAL/Input Remedial Deal Amount/Request/iframe_Welcome, PRIANTO ARI BASUKI, REMEDIA_e8328a']) = count(//*[@ref_element = 'Object Repository/REMEDIAL/Input Remedial Deal Amount/Request/iframe_Welcome, PRIANTO ARI BASUKI, REMEDIA_e8328a'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rtvMenuTree']/ul/li[6]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rtPlus</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[4]/div[2]/div/ul/li[6]/div/span[2]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/REMEDIAL/Input Remedial Deal Amount/Request/iframe_Welcome, PRIANTO ARI BASUKI, REMEDIA_e8328a</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rtvMenuTree']/ul/li[6]/div/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

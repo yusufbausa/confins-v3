@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_menu_disbursement_retur</name>
+   <tag></tag>
+   <elementGuidId>41dab860-37a1-464a-bfee-a251ab145526</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rtMid.rtHover > a.rtIn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='return false'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>940938c9-ff37-4156-abbf-cb5419f6632e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rtIn</value>
+      <webElementGuid>3d484117-ad53-4ffd-9916-545316c1099d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false</value>
+      <webElementGuid>14d73e0b-80f9-49be-bbd3-ca6a108f1eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Disb/DisbRetur.aspx</value>
+      <webElementGuid>00af28ad-c24a-4e23-ba71-d4cbf47199d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Disbursement Retur</value>
+      <webElementGuid>a6cdf426-2745-4677-bb19-6de6a4ee9812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[4]/div[2]/div/ul/li[4]/div/a</value>
+      <webElementGuid>dc775181-2a75-455e-b21d-643e459fa62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Disbursement/Disbursement Retur/iframe_Welcome, NOFRIANSYAH, HEAD OFFICE, F_5c61b2</value>
+      <webElementGuid>faedd14c-d5eb-4beb-ae28-76b5a8288c66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='return false'])[4]</value>
+      <webElementGuid>c5b93c30-133c-49a5-b782-3676dfcfe73e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rtvMenuTree']/ul/li[4]/div/a</value>
+      <webElementGuid>89b67f13-b58c-434f-ba69-5c959a3550e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Disbursement Retur')]</value>
+      <webElementGuid>5713cedb-1cc8-4298-847e-9d7a77e5ef7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disbursement Execution'])[1]/following::a[1]</value>
+      <webElementGuid>e50fee15-463f-402f-aeaa-bceb38ffcba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disbursement Approval'])[1]/following::a[2]</value>
+      <webElementGuid>562ff39d-35dc-43eb-9577-fcf3bf9f3f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inquiry'])[1]/preceding::a[1]</value>
+      <webElementGuid>6ac542f9-e52c-4c36-9cd1-558bcdffd948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Favourite'])[1]/preceding::a[1]</value>
+      <webElementGuid>2b539db5-f358-43a4-b8ef-6e766c34704e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Disbursement Retur']/parent::*</value>
+      <webElementGuid>6cc80500-b4ef-4141-bf5b-52b3ba65dfd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Disb/DisbRetur.aspx')]</value>
+      <webElementGuid>421f388e-f5ba-4c78-adf0-c1b19f73456b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/a</value>
+      <webElementGuid>2ce1802f-d0df-41be-968c-f1fd13a3e857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Disb/DisbRetur.aspx' and (text() = 'Disbursement Retur' or . = 'Disbursement Retur')]</value>
+      <webElementGuid>8292c9e7-05aa-4eaf-b145-a9492068f847</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

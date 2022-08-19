@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CDE Company</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5765f534-f090-4d6d-934c-50c4bdf8a974</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bbbeb1b-c2ec-4721-9003-4d99961ac9cc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e3f465e5-b1bf-4d72-a063-9f49640329d7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>311a4cfa-6792-47cc-8fd9-c3b999f129ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d280dff0-484b-47c6-a1dd-73959328a7d6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://confins-qa.taf.co.id/confins'</defaultValue>
+      <description></description>
+      <id>0bbbeb1b-c2ec-4721-9003-4d99961ac9cc</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'TAB1616'</defaultValue>
+      <description></description>
+      <id>e3f465e5-b1bf-4d72-a063-9f49640329d7</id>
+      <masked>false</masked>
+      <name>usernameCDE</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>311a4cfa-6792-47cc-8fd9-c3b999f129ce</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'PT Maju Tiga'</defaultValue>
+      <description></description>
+      <id>d280dff0-484b-47c6-a1dd-73959328a7d6</id>
+      <masked>false</masked>
+      <name>custName</name>
+   </variable>
+</TestCaseEntity>

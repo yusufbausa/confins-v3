@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Director Approval - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>007944ee-b667-40f8-8175-1228abe38e73</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>2c1d2ad8-99e7-4f09-a224-0a30d92ac76d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>271bc3e4-0311-4b50-b09c-1e532a16e729</id>
+      <masked>false</masked>
+      <name>usernameARM</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>b6db6493-aecf-4276-8fbb-4680fa29c131</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14738b2b-cc0b-4e76-8f33-2a8e77f50548</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>754e45c8-6af5-4820-9a6e-1c09b71c3776</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

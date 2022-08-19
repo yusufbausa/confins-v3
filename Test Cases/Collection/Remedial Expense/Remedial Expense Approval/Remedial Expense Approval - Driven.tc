@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remedial Expense Approval - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c153e661-2baf-4f3a-8634-703a51b2cb0d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8bf0602d-c421-4577-8a0d-ce1d9c2425f1</id>
+      <masked>false</masked>
+      <name>usernameSDH</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>67158c02-6b50-4eb2-9d61-2deae1722b11</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43ec5bb8-754c-433d-9c30-c7eea526bc95</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eff38890-b80d-47da-a48b-5e90036ec337</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>7065f59c-0ce6-4b17-af8d-b521be80bacd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

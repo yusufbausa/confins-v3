@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remedial Activity - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d3e7d7f-965c-4734-8a6e-97265a74128f</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>1694c470-7907-425e-bb74-5931c83ae6fd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c3308686-433a-44c1-b595-2b36aa8ad508</id>
+      <masked>false</masked>
+      <name>usernameRA1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>53cce8d2-8663-414a-84de-a2f635fd429e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c3891aaf-0f8b-40fc-a4f4-948d011f9d4f</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8bed4004-1085-4beb-929e-3cc172c182d1</id>
+      <masked>false</masked>
+      <name>contactName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dfc763ff-d950-449b-ac50-6ab017e10579</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9f37667a-6291-4ee2-91cf-773e16421340</id>
+      <masked>false</masked>
+      <name>colBucketValue</name>
+   </variable>
+</TestCaseEntity>

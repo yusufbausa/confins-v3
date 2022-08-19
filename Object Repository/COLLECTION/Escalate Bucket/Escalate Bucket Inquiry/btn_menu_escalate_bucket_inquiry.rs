@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_menu_escalate_bucket_inquiry</name>
+   <tag></tag>
+   <elementGuidId>cb6864d3-d1c1-4196-9637-9809c42bb0a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rtMid.rtHover > a.rtIn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='return false'])[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7df2bd36-a311-4751-8e19-e1c5b4d69545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rtIn</value>
+      <webElementGuid>49c5d1a8-247b-434e-9e84-e4afec1c7273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false</value>
+      <webElementGuid>2a61560a-c245-4825-bd6d-0265663a8b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Coll/Administration/EscalateInquiry.aspx</value>
+      <webElementGuid>cb168b11-f995-48f1-9c29-b25bb38ac4d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Escalate Bucket Inquiry</value>
+      <webElementGuid>a3e1531f-da5f-4169-9e51-beeead3cc3d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[4]/div[2]/div/ul/li[9]/div/a</value>
+      <webElementGuid>f79d844c-48a2-4090-a7d2-9378655438f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/COLLECTION/Escalate Bucket/Escalate Bucket Inquiry/iframe_Welcome, TYAS UNTORO, Jakarta Centra_f2e925</value>
+      <webElementGuid>6dd205eb-daad-43ff-a040-f9aaf716929e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='return false'])[9]</value>
+      <webElementGuid>0a5a0bad-1f40-4a63-8e17-2f5e376c1765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rtvMenuTree']/ul/li[9]/div/a</value>
+      <webElementGuid>f02e042b-a964-4b65-a369-daedbebebb61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Escalate Bucket Inquiry')]</value>
+      <webElementGuid>db490229-a8b8-4ce7-8250-fe14022f8dd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Escalate Approval'])[1]/following::a[1]</value>
+      <webElementGuid>f603f2ab-3ed1-4c99-8b0a-ddad86f9aa38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uploader Result Remark Whatsapp'])[1]/following::a[2]</value>
+      <webElementGuid>d46cc5de-b5ef-4fec-9698-bf33a7b69904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Mailing Address'])[1]/preceding::a[1]</value>
+      <webElementGuid>4770d348-c37f-414b-93b7-eab7d5c7472a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection Unblock'])[1]/preceding::a[1]</value>
+      <webElementGuid>2fc9d1df-bbb8-44ee-8b22-640b2abe4686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Escalate Bucket Inquiry']/parent::*</value>
+      <webElementGuid>c2e15aac-686d-4972-b25f-456f4e8274c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Coll/Administration/EscalateInquiry.aspx')]</value>
+      <webElementGuid>f51c54dd-5ee5-45e2-b9ee-bd39329ec3f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/a</value>
+      <webElementGuid>aa712a00-dd28-4a4f-aba0-f0255571d1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Coll/Administration/EscalateInquiry.aspx' and (text() = 'Escalate Bucket Inquiry' or . = 'Escalate Bucket Inquiry')]</value>
+      <webElementGuid>67bf14cc-0232-4e59-b1d8-beebff3afc3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

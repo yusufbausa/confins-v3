@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Transfer Approval Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0cd70ac-89ec-480a-9b76-66883021661d</testCaseGuid>
+   <variable>
+      <defaultValue>'SUG0793'</defaultValue>
+      <description></description>
+      <id>2428b3f2-57fc-4dbf-8c87-592b69ff112f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>4ac7b721-a450-434f-bb57-d32230bd5852</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>028b3d6a-1120-4a39-b156-9d3cc68ac9d2</id>
+      <masked>false</masked>
+      <name>reqNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>1f463449-12ed-44ab-a08d-007c5838842d</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>03db87f8-57c7-4050-aa40-2c7a32755695</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

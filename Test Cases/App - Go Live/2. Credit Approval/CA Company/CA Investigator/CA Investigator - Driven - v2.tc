@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CA Investigator - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>123c40a8-5cfa-4cb5-b1d7-f63be4960749</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>3e50491c-4553-4b89-af75-039f44eb3a26</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24c6c7d9-3d4c-4c42-8b85-211ba639b124</id>
+      <masked>false</masked>
+      <name>usernameCAI</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>be43df58-a228-43e0-ba57-3f2b1371fa0f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>04205d3b-3580-4a9b-a861-9c3ae7ffe74e</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc76f419-1d5d-4eb9-b4ec-eb83b1527edd</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

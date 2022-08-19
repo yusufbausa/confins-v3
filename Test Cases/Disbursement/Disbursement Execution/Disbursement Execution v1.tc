@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Disbursement Execution v1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c347deb3-3b4c-4729-8251-49bc0cafd1a5</testCaseGuid>
+   <variable>
+      <defaultValue>'https://confins-qa.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>eafd6044-b377-4f65-a600-f62b8d2a6982</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'NON1002'</defaultValue>
+      <description></description>
+      <id>7d0a13c2-03fa-4241-8fd9-d7ef076fc336</id>
+      <masked>false</masked>
+      <name>usernameFH</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>d1e9519e-e8a0-4290-9a87-91d1ccf66140</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pembayaran ke Eksekutor'</defaultValue>
+      <description></description>
+      <id>f49ba01d-d05e-4a86-9386-c634e21b03f7</id>
+      <masked>false</masked>
+      <name>apTypeName</name>
+   </variable>
+   <variable>
+      <defaultValue>'BANK CENTRAL ASIA'</defaultValue>
+      <description></description>
+      <id>0c80f796-615e-494e-89ec-307d8a2bf4a9</id>
+      <masked>false</masked>
+      <name>bankName</name>
+   </variable>
+   <variable>
+      <defaultValue>'%PT TAF%'</defaultValue>
+      <description></description>
+      <id>fbe75566-72a3-4119-a53d-9c5d5d7f3dff</id>
+      <masked>false</masked>
+      <name>apDestination</name>
+   </variable>
+   <variable>
+      <defaultValue>'PT TAF'</defaultValue>
+      <description></description>
+      <id>4feaf077-c432-4359-990b-dd3199e9aa68</id>
+      <masked>false</masked>
+      <name>recipientName</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>2fd2e6eb-f002-44c5-96d2-c27fe1b1a446</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

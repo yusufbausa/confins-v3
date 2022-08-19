@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Asset Appraisal Req - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e879e581-fecf-4d70-bdc9-19247431af1e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c554c4b8-9baf-4e77-9ae1-375c268cce4a</id>
+      <masked>false</masked>
+      <name>usernameINV</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5d5387c4-b25c-4cb1-8e9d-33457bc35671</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a5bdc0e5-f606-4c2a-a988-f5b40f4b5472</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cfa33d35-49c2-4b3e-bc65-913ebd7c342f</id>
+      <masked>false</masked>
+      <name>minSelling</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82391fc4-0199-4c48-84a2-f0fa3b139ba2</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>08464461-238b-442b-99d9-7e446f58efc6</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7c9cd0a-347d-422c-b72f-003d99de2ba9</id>
+      <masked>false</masked>
+      <name>approvedBy</name>
+   </variable>
+</TestCaseEntity>

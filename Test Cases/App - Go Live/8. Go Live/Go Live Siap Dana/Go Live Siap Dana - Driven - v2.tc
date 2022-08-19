@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Go Live Siap Dana - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efb674de-be83-4dea-8f93-a415c1a83bd9</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>b3bfbda1-5ed0-40d7-8f43-7d4d9ea8bcec</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7b8520c0-16be-4a48-a7d3-f05d6538c6e8</id>
+      <masked>false</masked>
+      <name>usernameGL</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>569a8f9e-f1bd-4a35-8d0f-274e85ca7bee</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4d76489-22b5-4b60-b5ce-bec598dbd96d</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>48afb5a3-a939-448a-a205-8415771766f8</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

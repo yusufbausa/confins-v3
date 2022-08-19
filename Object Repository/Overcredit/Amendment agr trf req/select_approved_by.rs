@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_approved_by</name>
+   <tag></tag>
+   <elementGuidId>d19870f6-e6e9-48f7-b5dd-91c38583a4f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ucApprovalReq_ddlApvBy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ucApprovalReq_ddlApvBy']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7a6c16d6-d5ca-449e-86d6-589d7a260bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ucApprovalReq$ddlApvBy</value>
+      <webElementGuid>911ad541-095f-4bf4-b72f-ea0addd522ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ucApprovalReq_ddlApvBy</value>
+      <webElementGuid>24c85af2-6d75-457b-a3f8-ab032eefa86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	Select One
+	LFC2023
+	SUG0793
+	TWA0223
+
+</value>
+      <webElementGuid>8fa497ff-be5e-4c5c-9fec-9742174d479d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[5]/div[14]/div[2]/table/tbody/tr[1]/td[4]/select</value>
+      <webElementGuid>2e3cf1e9-1314-4b85-bdc6-fa06905ff364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Overcredit/Amendment agr trf req/iframe_Welcome, SUGIHARTINI, TANGERANG, CUS_b08983</value>
+      <webElementGuid>d0c2f7dc-2e7f-4468-87c7-19594836c626</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ucApprovalReq_ddlApvBy']</value>
+      <webElementGuid>aa629b2e-19d7-4934-a8e9-a8694deeda44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dApv']/table/tbody/tr/td[4]/select</value>
+      <webElementGuid>33360586-d87e-4d35-b403-397ffd38ee25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Be Approved By'])[1]/following::select[1]</value>
+      <webElementGuid>411b6d50-e607-48c9-8395-0f465f9bc8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select one'])[1]/following::select[1]</value>
+      <webElementGuid>21c8840a-e5cb-434e-bb21-1704b0da1c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::select[1]</value>
+      <webElementGuid>8e12b585-daf4-4a40-8315-a13df6aca45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select one'])[2]/preceding::select[1]</value>
+      <webElementGuid>9718fa6b-6ed3-4788-8481-9e92e98a2dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/select</value>
+      <webElementGuid>bfbd6a95-c8f7-4144-87aa-f145e7c05d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ucApprovalReq$ddlApvBy' and @id = 'ucApprovalReq_ddlApvBy' and (text() = '
+	Select One
+	LFC2023
+	SUG0793
+	TWA0223
+
+' or . = '
+	Select One
+	LFC2023
+	SUG0793
+	TWA0223
+
+')]</value>
+      <webElementGuid>6abf271c-dfe7-4ea5-9229-2aabce9567e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

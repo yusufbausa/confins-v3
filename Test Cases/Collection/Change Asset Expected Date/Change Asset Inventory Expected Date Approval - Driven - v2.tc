@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Asset Inventory Expected Date Approval - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61556a98-9066-499f-831d-d79b20f85893</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58258da0-8fe2-4814-af11-b1e8e8793bc5</id>
+      <masked>false</masked>
+      <name>usernameHO</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8733f0d-1d9e-4d5c-808f-71aceda9c293</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>976cd363-4aa9-41b1-9289-865a81412e6c</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3237439d-ce40-429a-8444-bb87e1b1547d</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>1a6acb6a-d8d3-4d71-ad89-09d54487d1c8</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

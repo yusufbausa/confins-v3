@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CA Credit Division Head - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97f74226-b2e0-45f5-8f18-7bd040bd2d04</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>e35e73e5-2da9-4649-9ee1-e7fa15566e55</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bb16f614-90f1-41d6-8cd9-0688536e2b42</id>
+      <masked>false</masked>
+      <name>usernameCDH</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>412bf155-a5d0-4e57-9945-0f0eedfa4cb5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f69afb9c-0d02-4471-b431-bc7f858d69d0</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3fc0ae3-2663-4b39-800d-68106c7188dd</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

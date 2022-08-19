@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Asset Appraisal Req</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48fdc73b-400d-4947-a655-44181b6f30bb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d119c94-e562-44a0-89b6-2cf7b3e8fd8b</id>
+      <masked>false</masked>
+      <name>usernameINV</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1bef6851-4c9d-4df9-a4a7-545888571a74</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>08d7851e-a267-46ef-ac68-6700ea89fd48</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9b529cd9-2231-4fc3-8167-b26b3010379b</id>
+      <masked>false</masked>
+      <name>minSelling</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78750cee-f809-465b-9fc7-47ba5a27acef</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

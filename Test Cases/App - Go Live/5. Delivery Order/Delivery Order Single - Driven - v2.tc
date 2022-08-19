@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delivery Order Single - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9b8d5dd-40d8-4ef6-a09f-99a2639f4ace</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c17555d8-12ce-4ea3-9ad7-46fa80db1c9b</id>
+      <masked>false</masked>
+      <name>usernameDO</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8af1597a-8406-4f31-86d2-2e4708dfe3a3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a1a3134-7ba6-47dd-b946-6e87d02e9fde</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>856f03b5-7bf2-4c13-a9ac-4237b9ae939d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

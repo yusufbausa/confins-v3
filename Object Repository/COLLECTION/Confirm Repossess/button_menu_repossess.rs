@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_menu_repossess</name>
+   <tag></tag>
+   <elementGuidId>0d0f83fe-53c4-479e-9b48-c4ecb7a95333</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rtTop.rtHover > a.rtIn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='return false'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[4]/div[2]/div/ul/li[4]/ul/li[1]/div/a[count(. | //*[(text() = 'Repossess' or . = 'Repossess') and @ref_element = 'Object Repository/COLLECTION/Confirm Repossess/iframe_Welcome, INDARTO TEGUH WARTONO, Jaka_97930c']) = count(//*[(text() = 'Repossess' or . = 'Repossess') and @ref_element = 'Object Repository/COLLECTION/Confirm Repossess/iframe_Welcome, INDARTO TEGUH WARTONO, Jaka_97930c'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>13b8b65d-3657-43dd-9136-0bb7b7823018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rtIn</value>
+      <webElementGuid>1fd98f70-2e98-41c8-a334-07c7fb7928a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false</value>
+      <webElementGuid>63467de6-a7eb-4b0a-8cda-dd243d84caaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Coll/Repossession/Repossess/Repossess.aspx?param=coll</value>
+      <webElementGuid>f47384e8-c567-4864-859a-0e60f3c16b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Repossess</value>
+      <webElementGuid>036f981c-0f82-41fd-a783-6154e1ad19f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[4]/div[2]/div/ul/li[4]/ul/li[1]/div/a</value>
+      <webElementGuid>3dffaa7c-8503-40ca-957a-cab44ac14269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/COLLECTION/Confirm Repossess/iframe_Welcome, INDARTO TEGUH WARTONO, Jaka_97930c</value>
+      <webElementGuid>4da118bf-704d-4c8e-8ba2-946598df024d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='return false'])[2]</value>
+      <webElementGuid>b45bb50b-c1de-48a3-a29e-7f846681a519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rtvMenuTree']/ul/li[4]/ul/li/div/a</value>
+      <webElementGuid>2e01c944-5604-4dab-8468-00ce0da14ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Repossess')]</value>
+      <webElementGuid>55291ff0-7ddf-4413-893f-29f9627d32a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repossess'])[1]/following::a[1]</value>
+      <webElementGuid>9a67c008-4c29-414f-889e-4771c08aab0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Release'])[1]/following::a[1]</value>
+      <webElementGuid>be9efb14-79db-4e34-ac1e-2ca4721f3012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asset Inventory Execution'])[1]/preceding::a[1]</value>
+      <webElementGuid>90138713-7f25-4812-99fa-9c2a9e8acc07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Inventory Expected Date'])[1]/preceding::a[2]</value>
+      <webElementGuid>deb4f7ef-ce03-4a28-a54a-e0e659f3980f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'Coll/Repossession/Repossess/Repossess.aspx?param=coll')]</value>
+      <webElementGuid>7259df68-26bb-459b-8015-7bf06d09e34f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li/div/a</value>
+      <webElementGuid>faab6313-f387-43d0-ab96-8d940feca226</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

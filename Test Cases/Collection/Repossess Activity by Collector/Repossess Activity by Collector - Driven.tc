@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Repossess Activity by Collector - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad77ca18-efc9-4c3c-8221-514d6eba8696</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>004e2b59-936b-432d-944e-bd8d538e7394</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a7b79984-e10d-4b39-bf54-dde1237c149c</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4f2fe6c-60cd-4d94-af82-5ecadf6fbbd0</id>
+      <masked>false</masked>
+      <name>usernameExecutor</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0a349ac9-8db1-4550-8d78-01c085fe3f27</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

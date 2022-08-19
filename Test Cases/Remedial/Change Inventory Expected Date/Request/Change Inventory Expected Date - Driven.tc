@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Inventory Expected Date - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2feb6fd5-57b1-42bc-add3-e0fb5794b776</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>01b453d1-0f22-4cff-b960-4c550bd0bbdb</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>45718f58-bebb-4592-bb26-c0741d8cb6d9</id>
+      <masked>false</masked>
+      <name>usernameRA1</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>f74b0991-c5ea-4873-8936-1bcdf526e489</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>522806ee-0b0d-4077-adfa-2e91bc7fe28a</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9a0c9d6e-576d-4909-8a03-f4aaedbd21d1</id>
+      <masked>false</masked>
+      <name>newExpectedDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7fdf7a3d-91e2-4bf7-a544-9efb83ccef10</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

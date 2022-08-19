@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Credit Review Company v2 - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>69f66ad9-0a52-4b30-a393-e57a726c0b9c</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>f3816ebd-736d-4b6b-af48-f7ca8ef4b44d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>90ad2047-f89a-4e89-916c-7ee45032cb50</id>
+      <masked>false</masked>
+      <name>usernameCR</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>04ab131f-0897-46fe-bc47-01a7dba56911</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0542c841-451e-4800-9247-e57d13114eae</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e1175279-6bf2-4bf3-aa64-19b32fa6aff4</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09266a01-a1b7-4d5e-b08f-5e18db2b1a57</id>
+      <masked>false</masked>
+      <name>statements</name>
+   </variable>
+   <variable>
+      <defaultValue>'321551'</defaultValue>
+      <description></description>
+      <id>9120a63f-d787-42ce-9626-f4cec4a70996</id>
+      <masked>false</masked>
+      <name>approvedBy</name>
+   </variable>
+</TestCaseEntity>

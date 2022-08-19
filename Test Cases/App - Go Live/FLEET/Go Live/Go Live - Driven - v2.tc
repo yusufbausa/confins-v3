@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Go Live - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e44cde20-a7fd-4fce-9d25-8470d96a80f2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23e456ee-5d02-4b65-8b15-253389bb10bc</id>
+      <masked>false</masked>
+      <name>usernameGL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2b5aad85-da85-455b-9f66-b7098208b06f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c0ced5b6-5b7c-4a13-a8d5-89ef184302dc</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>89e17c9a-5fa3-4a32-87e0-6d54125960dc</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>c0194f30-a81e-4f55-8e68-70c11f4f6f2c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

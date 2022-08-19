@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_inquiry</name>
+   <tag></tag>
+   <elementGuidId>0ed9baaa-ccc9-4527-981e-fb6c50a49854</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rtTop.rtHover > a.rtIn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick='return false'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>439db1cf-4234-4582-8370-0270cb9e5f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rtIn</value>
+      <webElementGuid>e7fdc2aa-45e3-4646-8f3a-b36f8f0ae53a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false</value>
+      <webElementGuid>6295e3f4-ec60-4d29-a4ef-8627d348955d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>LOS/Inquiry/AppInquiry.aspx</value>
+      <webElementGuid>a1181e3e-45ad-4d6f-a6e4-7a1e2e148076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Application Inquiry</value>
+      <webElementGuid>ad452578-ceb4-42d3-aa1a-4a909977549c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[4]/div[2]/div/ul/li[11]/ul/li[1]/div/a</value>
+      <webElementGuid>a9884d62-313e-4c88-aff9-473dc245867b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SIAP DANA/Siap Dana Matching/Inquiry Matching/iframe_Welcome, ABDUL AZIS, TANGERANG, Mark_e075b7</value>
+      <webElementGuid>70fb3fd8-1b9d-44ed-80cd-22e4413bc5d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick='return false'])[11]</value>
+      <webElementGuid>55a1723b-c497-4b70-ad81-cf0610095705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rtvMenuTree']/ul/li[11]/ul/li/div/a</value>
+      <webElementGuid>4c10e911-4e52-4785-9144-62c2d9cbfff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Application Inquiry')]</value>
+      <webElementGuid>5397d587-3371-4129-95d7-ac1074787641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application Inquiry'])[1]/following::a[1]</value>
+      <webElementGuid>2f3f06fb-a5b1-4497-996f-60c229c820da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Application By SO'])[1]/following::a[1]</value>
+      <webElementGuid>e90607ec-80ac-40cb-a362-a1d7f5c6d233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credit Process Inquiry'])[1]/preceding::a[1]</value>
+      <webElementGuid>01f91973-1cb5-4796-b29d-bc61e8a22035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Process'])[1]/preceding::a[2]</value>
+      <webElementGuid>9b5f2d74-410f-4c88-b3dc-bf78a500a7b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'LOS/Inquiry/AppInquiry.aspx')]</value>
+      <webElementGuid>fdfb731f-2df4-4180-8c30-4fa8900a100e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/ul/li/div/a</value>
+      <webElementGuid>67291bb8-ae60-4d58-8787-6f87530fb425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'LOS/Inquiry/AppInquiry.aspx' and (text() = 'Application Inquiry' or . = 'Application Inquiry')]</value>
+      <webElementGuid>404c2aee-7f07-4e3e-9867-4270179ace5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

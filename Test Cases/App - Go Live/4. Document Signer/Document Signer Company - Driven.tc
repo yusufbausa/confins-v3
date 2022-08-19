@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Document Signer Company - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9cd73878-da8a-43ab-9439-551361d4143f</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>fa1433ed-d79e-469a-85a7-6bfcffb9d9d0</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f8e3dec-90c0-48bc-b76d-96ade3e2a515</id>
+      <masked>false</masked>
+      <name>usernameDS</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>9e7700db-2ce1-49f6-afe5-8a6546a1b43b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b98890ba-1271-4fd8-8ea2-3043cd97d530</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Doc Memo Pending</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba797ca5-87a7-4978-8f38-e908b925240b</testCaseGuid>
+   <variable>
+      <defaultValue>'https://confins-qa.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>51c51859-4a2e-45c2-a30b-64f548557d9f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'TUN0391'</defaultValue>
+      <description></description>
+      <id>ea064fc3-0596-4259-9bc9-83bf3a212436</id>
+      <masked>false</masked>
+      <name>usernameAR</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>0220fd95-938b-42b7-8655-1e3ce1bb53b5</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1912739418'</defaultValue>
+      <description></description>
+      <id>6b94fe27-3ac6-4305-a810-21f70587a7e7</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'B 2955 SIJ-Memo Pending'</defaultValue>
+      <description></description>
+      <id>e3796b35-2b43-47e8-9c31-8588b5fd93c8</id>
+      <masked>false</masked>
+      <name>remarks</name>
+   </variable>
+   <variable>
+      <defaultValue>'E:\\\\memo.pdf'</defaultValue>
+      <description></description>
+      <id>cd4aba94-e099-4a53-9aa9-1b2397e97438</id>
+      <masked>false</masked>
+      <name>fileUpload</name>
+   </variable>
+</TestCaseEntity>

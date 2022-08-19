@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cash Advance Settlement v1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40d1c5b9-4be9-4781-91d9-cc1771bf1d3d</testCaseGuid>
+   <variable>
+      <defaultValue>'https://confins-qa.taf.co.id/confins'</defaultValue>
+      <description></description>
+      <id>80248da3-976b-41ec-975a-87bc0f6766bd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'NON1002'</defaultValue>
+      <description></description>
+      <id>9760c557-67e8-4c1d-a4e7-1b896fe8d56a</id>
+      <masked>false</masked>
+      <name>usernameFH</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>25b72ae5-dea0-4a34-b705-47f843fe8870</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f8f2bcf4-627f-48e0-bc7b-bc6cc78668f3</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+</TestCaseEntity>

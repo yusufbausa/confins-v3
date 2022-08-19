@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remedial Deal Amount Approval - Credit Risk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>465e1d00-19ac-45f9-8903-3232de4c6b87</testCaseGuid>
+   <variable>
+      <defaultValue>'https://confins-qa.taf.co.id/confins'</defaultValue>
+      <description></description>
+      <id>f8b18361-a39d-4767-8612-9522052dd71c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'SJE1137'</defaultValue>
+      <description></description>
+      <id>69193cbf-7f66-466d-a1c2-ed3544c50628</id>
+      <masked>false</masked>
+      <name>usernameRisk</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>18c76e98-e67d-4550-95a7-24cfe568999a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'2119904851'</defaultValue>
+      <description></description>
+      <id>315fd076-0e08-4ea5-907e-4d4d31b17983</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>5530c591-9676-4eaa-a7ab-82101008a3c9</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

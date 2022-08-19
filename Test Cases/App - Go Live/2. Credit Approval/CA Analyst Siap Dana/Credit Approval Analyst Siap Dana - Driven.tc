@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Credit Approval Analyst Siap Dana - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a68720e0-f87f-487f-a2ab-79b73c0ff045</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>932a9042-0323-4619-8a99-31abe854d897</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4498de19-33f7-4237-b14e-0f19ae06b26b</id>
+      <masked>false</masked>
+      <name>usernameCAA</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>d0150558-36cd-432d-bf54-d01f1e21e612</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c46214ff-f59f-4aa1-8d5f-ce3f25fca009</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5d24cf2c-0041-40ba-b01e-a851e6c82d09</id>
+      <masked>false</masked>
+      <name>syarat</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>efaab2ec-23d1-4e87-ae98-7927575a9c64</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select (1)</name>
+   <tag></tag>
+   <elementGuidId>3193d98a-7439-430e-bfb0-8949b6cbb54e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#UCAddress_ucLookupZipCode_uclZipCode_umd_ctl00_gvL_hpSelect_0</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[4]/div/div/div[2]/div/div[3]/div/div/table/tbody/tr[3]/td[2]/div/div/div/div/div[2]/div/div[1]/table/tbody/tr[2]/td[7]/a[count(. | //*[@ref_element = 'Object Repository/Corporate Customer/Address/iframe_Other Attribute_custForm']) = count(//*[@ref_element = 'Object Repository/Corporate Customer/Address/iframe_Other Attribute_custForm'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='UCAddress_ucLookupZipCode_uclZipCode_umd_ctl00_gvL_hpSelect_0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>UCAddress_ucLookupZipCode_uclZipCode_umd_ctl00_gvL_hpSelect_0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:ZipCode('UCAddress_ucLookupZipCode_uclZipCode_txt','UCAddress_ucLookupZipCode_uclZipCode_hd1','12780','UCAddress_ucLookupZipCode_uclZipCode_hd2','PANCORAN','UCAddress_ucLookupZipCode_uclZipCode_hd3','PANCORAN','UCAddress_ucLookupZipCode_uclZipCode_hd4','JAKARTA SELATAN','UCAddress_ucLookupZipCode_uclZipCode_hd5','-','UCAddress_ucLookupZipCode_uclZipCode_hd6','Wil. Kota Jakarta Selatan','UCAddress_ucLookupZipCode_uclZipCode_hd7','161');;overlay('mdnUCAddress_ucLookupZipCode_uclZipCode');__doPostBack('mdnUCAddress_ucLookupZipCode_uclZipCode', '')</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[4]/div/div/div[2]/div/div[3]/div/div/table/tbody/tr[3]/td[2]/div/div/div/div/div[2]/div/div[1]/table/tbody/tr[2]/td[7]/a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Corporate Customer/Address/iframe_Other Attribute_custForm</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='UCAddress_ucLookupZipCode_uclZipCode_umd_ctl00_gvL_hpSelect_0']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='UCAddress_ucLookupZipCode_uclZipCode_umd_ctl00_gvL']/tbody/tr[2]/td[7]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Select')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wil. Kota Jakarta Selatan'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PANCORAN MAS'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PANCORAN MAS'])[2]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:ZipCode('UCAddress_ucLookupZipCode_uclZipCode_txt','UCAddress_ucLookupZipCode_uclZipCode_hd1','12780','UCAddress_ucLookupZipCode_uclZipCode_hd2','PANCORAN','UCAddress_ucLookupZipCode_uclZipCode_hd3','PANCORAN','UCAddress_ucLookupZipCode_uclZipCode_hd4','JAKARTA SELATAN','UCAddress_ucLookupZipCode_uclZipCode_hd5','-','UCAddress_ucLookupZipCode_uclZipCode_hd6','Wil. Kota Jakarta Selatan','UCAddress_ucLookupZipCode_uclZipCode_hd7','161');;overlay('mdnUCAddress_ucLookupZipCode_uclZipCode');__doPostBack('mdnUCAddress_ucLookupZipCode_uclZipCode', '')&quot;)]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

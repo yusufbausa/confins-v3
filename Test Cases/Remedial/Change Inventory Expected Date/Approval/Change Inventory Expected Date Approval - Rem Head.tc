@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Inventory Expected Date Approval - Rem Head</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e7876bd-8c07-40ad-bf6e-0b53b3080d7e</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-qa.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>99d79bd5-1e8f-4fcd-ad9e-afa034329b7f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'RIP2220'</defaultValue>
+      <description></description>
+      <id>216f27cc-85d2-4878-b56b-d16b4dc575ac</id>
+      <masked>false</masked>
+      <name>usernameApprRH</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>b23b9944-f935-4d36-9fa6-3ddac91b1432</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1818633860'</defaultValue>
+      <description></description>
+      <id>e0879618-9769-4711-ac40-97868552e9b3</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>43ad3073-07c9-47bc-8bf0-e3f50df59e7f</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

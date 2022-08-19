@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Release Execution Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee582d1f-626e-4547-9817-e4b2196b85e3</testCaseGuid>
+   <variable>
+      <defaultValue>'SUG0793'</defaultValue>
+      <description></description>
+      <id>493e4724-b3ed-4f87-bcc9-0f3481e4d5c2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>2bf19a49-948e-4483-b35c-ba0840cdf004</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e379f10-c54c-40f5-a5d1-34b0786decc5</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Released'</defaultValue>
+      <description></description>
+      <id>3ed5981b-4fda-40c3-8094-6fc24da61529</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>d406c158-e415-471e-b8fb-6064efa5284f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

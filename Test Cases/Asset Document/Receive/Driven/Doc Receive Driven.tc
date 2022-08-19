@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Doc Receive Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa0e5aa0-e72e-48a7-9ed6-eb29ad6311d2</testCaseGuid>
+   <variable>
+      <defaultValue>'DSM0877'</defaultValue>
+      <description></description>
+      <id>c8fe18ec-9c17-408c-9cdb-fbcb05b662e9</id>
+      <masked>false</masked>
+      <name>usernameDestination</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>62d32b7b-b52f-45a3-b96c-7ceeb0dabeae</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>767bfa31-bbb8-47e3-b575-c6e6236abb54</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'01/05/2021'</defaultValue>
+      <description></description>
+      <id>095081f8-da03-4280-920a-1405280d83f4</id>
+      <masked>false</masked>
+      <name>taxDate</name>
+   </variable>
+</TestCaseEntity>

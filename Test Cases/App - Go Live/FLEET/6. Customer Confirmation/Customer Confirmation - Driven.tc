@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Customer Confirmation - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3583aa6c-4cd7-439d-bffc-159ab57471fb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84b1094f-7a42-4985-aad9-ee20ececdbc9</id>
+      <masked>false</masked>
+      <name>usernameCC</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1ce22e4-8158-4759-a8fc-76ea671b42e3</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fb0c01b5-0e43-44b2-87f2-577f5e2c3dad</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b1f1fa27-324a-4922-b0ca-765ed575de9d</id>
+      <masked>false</masked>
+      <name>contactName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>aa29ec40-7e8f-4d63-9f49-0dfb089d849b</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b8cb6769-afdf-46a7-84bb-b1045daf0f24</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>db5d5d96-2f5d-4274-83a3-41df1a207e5c</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

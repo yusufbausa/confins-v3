@@ -1,0 +1,5 @@
+diff a/settings/internal/com.kms.katalon.composer.testcase.properties b/settings/internal/com.kms.katalon.composer.testcase.properties	(rejected hunks)
+@@ -1,2 +0,2 @@
+-#Wed Apr 20 00:26:40 ICT 2022
++#Wed Apr 20 01:18:42 ICT 2022
+ testCaseTag="CDH,CA"

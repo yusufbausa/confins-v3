@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CA Credit Area Head v2 - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be50bcd2-ad75-49be-9e01-8e835b1b5945</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>77907c6d-1e65-4c81-aaa4-af751ac50b5f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8137080a-e786-496e-8896-7b54d442226a</id>
+      <masked>false</masked>
+      <name>usernameCAH</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>60e06e1b-cd4d-4246-ba72-9d0772be9a54</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a07f6c7d-79a0-4dca-a74e-ddd63e861df4</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06dbac5d-0561-49c7-86d4-33397a8ead24</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

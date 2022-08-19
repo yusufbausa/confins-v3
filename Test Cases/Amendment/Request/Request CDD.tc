@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Change Due Date</description>
+   <name>Request CDD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2be657a-818c-458d-aebd-020627c69ca7</testCaseGuid>
+</TestCaseEntity>

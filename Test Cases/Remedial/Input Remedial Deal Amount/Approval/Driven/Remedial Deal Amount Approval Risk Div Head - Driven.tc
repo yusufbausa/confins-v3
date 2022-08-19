@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remedial Deal Amount Approval Risk Div Head - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50636879-791b-4225-9715-1540d52ca15e</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>bdca3e30-5bd5-46a7-8131-4d934040d44d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>602d0af8-9fb8-4b59-8b67-6f34e11a5852</id>
+      <masked>false</masked>
+      <name>usernameRIDH</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>5ef76543-7258-43d0-a206-c25c9257fdce</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0857f547-084a-47e3-a6ef-3cd1abe9e893</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>67c38fd4-592e-4600-b8d1-b506ae78a6e1</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

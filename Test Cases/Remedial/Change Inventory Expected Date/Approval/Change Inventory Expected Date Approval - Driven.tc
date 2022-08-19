@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Inventory Expected Date Approval - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cad42b3-684b-4678-8342-3a779a7d946b</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>ca88f0ee-7d75-474e-87fa-be3a556b230b</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>93783324-e738-4b41-91b2-e3d978f9f54c</id>
+      <masked>false</masked>
+      <name>usernameApprRA1</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>3acff0db-8b52-43bb-b9c5-5f1c2ff1cc65</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c7634e17-7408-4cfe-b5dd-c0d0f129d403</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d85d3d46-4595-42ce-b041-a8aad20f4cd0</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

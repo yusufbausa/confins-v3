@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Collection Expense Approval - v3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa0f0310-47fc-4c74-8c9d-27d1e1d7fb53</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b1a0bd87-68be-4801-8fd4-bb0a96c7a7c7</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'TUN0391'</defaultValue>
+      <description></description>
+      <id>193c8569-45bb-4ebb-a43f-99284013bd54</id>
+      <masked>false</masked>
+      <name>usernameAR</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>652ba0d2-2968-4ec6-8d0f-37e2acd85ca1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be8229f7-2b2b-40fd-95b3-dfe70d966470</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>9456a5d8-e512-461a-a6fc-1e8160fc27f1</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Asset Appraisal Approval - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ef5dddf-9d1b-4564-8a23-68a4fe52cc4a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4cb6d395-1bce-434a-8ccd-690a52a6c1ef</id>
+      <masked>false</masked>
+      <name>usernameBM</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8155bace-52c7-495e-b18c-1dfdf6da0d11</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>24331bd6-dbc0-405b-aeae-0a57dcbd6e4c</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c619b885-ffe4-447c-aaf7-92817db5fc16</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>dc4ea256-eade-4b9f-848b-976c10f4ee9e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

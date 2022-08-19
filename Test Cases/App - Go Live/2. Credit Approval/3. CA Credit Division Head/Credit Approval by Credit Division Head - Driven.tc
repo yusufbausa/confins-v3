@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Credit Approval by Credit Division Head - Driven</name>
+   <tag>CA, CDH</tag>
+   <comment></comment>
+   <testCaseGuid>2565f9c2-c271-4ea5-b1e1-0fbe4f7df34c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>744d9642-3f99-4d1f-ad65-386d815efdbf</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da294a87-727a-43f1-9f23-eeb5f48a25c4</id>
+      <masked>false</masked>
+      <name>usernameCDH</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8d96aa63-dd54-4c06-83ad-4db3cfcb3872</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf33db06-292f-417d-a941-c32bf760baee</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bbfb81a6-f6a8-465c-bcdb-c8357589fcc6</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

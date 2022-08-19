@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Customer Confirmation - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35256f6e-87ca-479a-b874-00ccac061375</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a24db5c4-842c-45ed-9e88-4aae2e76e134</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1317101e-3831-4b69-9cd1-b328596045f9</id>
+      <masked>false</masked>
+      <name>usernameCC</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a19f04de-0601-414c-a67e-fd158f338a13</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>857da7ec-159a-44d2-a0ff-32e71eee717d</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+</TestCaseEntity>

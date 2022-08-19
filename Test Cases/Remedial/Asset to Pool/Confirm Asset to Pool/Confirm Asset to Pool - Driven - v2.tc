@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Confirm Asset to Pool - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>396424c0-ed34-4a4e-b9ac-dc107cf844ab</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>bf9820c5-68b1-46d9-80e1-52ad40e440bc</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fb21bec-19c8-4569-aed2-213965ec4ffb</id>
+      <masked>false</masked>
+      <name>usernameInv</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>30dc5144-7edf-4da0-945b-dff573728a1c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7deffb5d-3334-4196-90ec-a5b1d2135ba9</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5d45e5f2-1b17-4075-8b34-be4bc48eeb82</id>
+      <masked>false</masked>
+      <name>receivedBy</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e69527b-5b0c-4c74-bca3-569c6bf6d4de</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46f7d829-54ac-4c7f-9fe9-855815a84b01</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execution ET - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46d09f76-c495-4bfe-915e-40e34a0964af</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>fea4c8e4-ce81-4b6a-a639-6ff93814115d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13653dbc-3817-4ea9-9913-c503489a0d55</id>
+      <masked>false</masked>
+      <name>usernameExe</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ad1dfa0b-4cd6-4ab9-9275-d48d3e6f3b6a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e7110476-896a-4acb-8625-24b332e9dad3</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+</TestCaseEntity>

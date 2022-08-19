@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Asset Inventory Approval FH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2d29a3e-31e0-4c20-9640-bd9a8c4cf8d6</testCaseGuid>
+   <variable>
+      <defaultValue>'https://confins-qa.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>ae872596-ea82-43e4-a223-b53ed85c12ec</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'RIP2220'</defaultValue>
+      <description></description>
+      <id>7115bd73-7f2e-4cd1-8185-e7a1341e1f01</id>
+      <masked>false</masked>
+      <name>usernameFH</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>779ee88e-cf59-4b47-9a25-327135d27817</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1611919813'</defaultValue>
+      <description></description>
+      <id>9da72f83-f1ea-44e1-a5d6-3de7ad3265b4</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>9572d11a-6bcb-40e0-8e04-9ae6431dedb8</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

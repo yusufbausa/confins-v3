@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Document Checkout Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>923455c1-1dc2-45f1-908f-71a231e28c67</testCaseGuid>
+   <variable>
+      <defaultValue>'FHM2287'</defaultValue>
+      <description></description>
+      <id>ffd11936-1eab-45eb-9d2f-67e869b18c17</id>
+      <masked>false</masked>
+      <name>usernameBpkb</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>f5f31735-780c-4dff-b974-cda02882a83b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7092b6f0-3ff3-40dd-a3ce-9ba33619f498</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>688ed18b-af8d-4954-a7f6-c2c12bee1d1a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

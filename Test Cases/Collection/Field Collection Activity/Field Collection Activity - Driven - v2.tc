@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Field Collection Activity - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b42e4917-8db2-47ed-b3b8-1d93d3c8e43f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>218f5f61-ffbb-481c-a6fc-3cf4bbaecabe</id>
+      <masked>false</masked>
+      <name>usernameCollector</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>afade900-9493-4da5-bf47-28a65cc84a7d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>602119b7-8d4c-4840-94c4-ea177fda8064</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4f040c7b-7900-4129-a4ba-3bfa8c04836d</id>
+      <masked>false</masked>
+      <name>contactName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd9d7d9c-f06a-4d81-b07e-4c468e23ba3d</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d43b3a8c-72c0-41b2-931c-83f253b038b9</id>
+      <masked>false</masked>
+      <name>nextActionDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>65343149-9cdd-4b6a-82dc-c1de3396464a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

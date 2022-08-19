@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Asset Document_rtPlus</name>
+   <tag></tag>
+   <elementGuidId>284d4023-f8f2-4432-b2b2-8309172ad755</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[4]/div[2]/div/ul/li[1]/div/span[2][count(. | //span[@class = 'rtPlus' and @ref_element = 'Object Repository/Asset Document/Transfer/Doc Checkin/iframe_Welcome, DAIRINA MANIK, JAKARTA NORT_25beaf']) = count(//span[@class = 'rtPlus' and @ref_element = 'Object Repository/Asset Document/Transfer/Doc Checkin/iframe_Welcome, DAIRINA MANIK, JAKARTA NORT_25beaf'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rtvMenuTree']/ul/li/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.rtPlus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rtPlus</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[4]/div[2]/div/ul/li[1]/div/span[2]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Asset Document/Transfer/Doc Checkin/iframe_Welcome, DAIRINA MANIK, JAKARTA NORT_25beaf</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rtvMenuTree']/ul/li/div/span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

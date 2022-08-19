@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS - Payment Reversal - v2</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>120</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>264bce8f-b88e-411c-965f-88b71903c1d4</testSuiteGuid>
+   <testCaseLink>
+      <guid>36450ed4-6e5a-4698-855d-8d4a4a067eac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Account Maintenance/Payment Reversal/Payment Reversal - Driven - v2</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f1312483-c36f-46e1-bca9-6e84235ecf38</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>2</value>
+         </iterationEntity>
+         <testDataId>Data Files/Account Maintenance/Data Payment Reversal</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f1312483-c36f-46e1-bca9-6e84235ecf38</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>78bc060c-4bad-4076-902e-c64936642887</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f1312483-c36f-46e1-bca9-6e84235ecf38</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>189ea4c1-52fa-4bd5-a0ab-540251a2800d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f1312483-c36f-46e1-bca9-6e84235ecf38</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>agreeNo</value>
+         <variableId>d6d0a5a6-24ae-4529-be93-49a51097ce98</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f1312483-c36f-46e1-bca9-6e84235ecf38</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>refNo</value>
+         <variableId>a2a9851c-3314-4dc6-bf68-cfe38a8bb1e5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f1312483-c36f-46e1-bca9-6e84235ecf38</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>notes</value>
+         <variableId>a05afa42-4dc0-4d96-ad7f-d9f1466b8ebd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f1312483-c36f-46e1-bca9-6e84235ecf38</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
+         <variableId>7859fb3a-70e1-4f8f-bccd-4a047f512f40</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

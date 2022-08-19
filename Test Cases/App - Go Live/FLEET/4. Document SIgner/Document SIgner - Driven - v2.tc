@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Document SIgner - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a25c3f04-f72f-4f99-910c-f30e9acec342</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>06996b25-a888-408d-a6e0-9eb6ad8398cd</id>
+      <masked>false</masked>
+      <name>usernameDS</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fce51214-80f2-438c-b9a5-adcbd2b76b85</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f44d6e3e-f837-4d2e-b01e-1c8f0e14ab47</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ac1ba18-72c6-41d4-aba0-5fe1c37c42cc</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>d29a225c-f998-4c4b-acc2-fd8d9e6353dd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

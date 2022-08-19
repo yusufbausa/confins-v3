@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Execution Reschedule - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76ee91c0-5642-447a-935e-e3c00d104f02</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>51e98009-f8c4-4259-adea-274a5deda04a</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6eb3202c-a7b9-418f-969f-fc54a07cc5ee</id>
+      <masked>false</masked>
+      <name>usernameExe</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75a1ddcb-7945-4fbe-a07b-799a4db3af38</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56f3fc22-a8a7-4605-98ce-1f33cf7eb733</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Credit Approval Branch Head - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a380360a-1e75-4c26-a788-78b2a8dcd067</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df6355e8-56f2-4ffd-a9ee-72f8bb067245</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'YKW0085'</defaultValue>
+      <description></description>
+      <id>a5d33bff-d48f-4f43-93a8-87ff8df64e6e</id>
+      <masked>false</masked>
+      <name>usernameBH</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>30d0c403-b9fc-45dc-b079-f157f2833de7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4479df50-f9d9-45f2-bcf9-319038e93d77</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>838e5b0c-4b04-4408-a108-3ad8269fe019</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

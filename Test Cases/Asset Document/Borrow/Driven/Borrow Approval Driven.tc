@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Borrow Approval Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36cca78f-22c9-4756-9949-11461135760e</testCaseGuid>
+   <variable>
+      <defaultValue>'DMN1556'</defaultValue>
+      <description></description>
+      <id>330347a6-4bce-463c-a5ea-2fccc895dbd5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>992dcfc3-11f8-4059-b8d2-b5ab79b347aa</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>602abe35-4650-4b7d-aa3e-bc37f7e27159</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'Approved'</defaultValue>
+      <description></description>
+      <id>4aaaf5fc-074a-4e8e-8cd6-820f9d7d82b7</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>1d49de8a-40fd-47e1-bf51-5d32e9af22dc</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

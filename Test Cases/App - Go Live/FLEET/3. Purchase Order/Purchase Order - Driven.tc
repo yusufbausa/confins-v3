@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase Order - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b263a8cf-0263-4d49-a46c-b14c7e921b57</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50f21bf2-9ed5-4900-bd0a-4ecf2669cf05</id>
+      <masked>false</masked>
+      <name>usernamePO</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2fc066f-604a-4ce0-bb79-e9c6ad393552</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af54e18b-91ed-4b11-b56d-9ce325aa5953</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2ed7ba7-5649-48a3-98d1-dd4e733d354b</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>f1f6c76b-08a5-49d8-96a8-24a1ae9d417e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

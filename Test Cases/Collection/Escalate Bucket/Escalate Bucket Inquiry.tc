@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking &amp; Validate Coll Bucket</description>
+   <name>Escalate Bucket Inquiry</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f116bad-43f0-4a2a-97b6-e64d4fabe5ac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>427c1cd5-23f9-46fc-ab02-42ec3cea5bac</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7531ef0-603c-40bd-a0e6-8ca39aa007cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f075fa42-9cda-4e95-9bfd-73e88179b63a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6818c25-c7b3-4ed1-9137-4a4d1c0ae343</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://confins-qa.taf.co.id/confins'</defaultValue>
+      <description></description>
+      <id>427c1cd5-23f9-46fc-ab02-42ec3cea5bac</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'TUN0391'</defaultValue>
+      <description></description>
+      <id>a7531ef0-603c-40bd-a0e6-8ca39aa007cb</id>
+      <masked>false</masked>
+      <name>usernameInquiry</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>f075fa42-9cda-4e95-9bfd-73e88179b63a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'2100009415'</defaultValue>
+      <description></description>
+      <id>e6818c25-c7b3-4ed1-9137-4a4d1c0ae343</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+</TestCaseEntity>

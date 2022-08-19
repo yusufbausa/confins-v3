@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Payment Reversal - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3869058-8e14-48c3-a171-edd8a49d2961</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>78bc060c-4bad-4076-902e-c64936642887</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>189ea4c1-52fa-4bd5-a0ab-540251a2800d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6d0a5a6-24ae-4529-be93-49a51097ce98</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2a9851c-3314-4dc6-bf68-cfe38a8bb1e5</id>
+      <masked>false</masked>
+      <name>refNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a05afa42-4dc0-4d96-ad7f-d9f1466b8ebd</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>7859fb3a-70e1-4f8f-bccd-4a047f512f40</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Credit Approval by Credit Area Head - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f77ac393-4150-47eb-8bcc-b6e0ec99089a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>32d4af5d-8d55-4ce9-bfa9-f8857d327388</id>
+      <masked>false</masked>
+      <name>usernameCAH</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0aae9912-067e-4a60-9f77-2deb5384e004</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18a9e98c-53f8-409f-948b-bc8e3c950fb3</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a419518d-a42c-45fe-8fdb-1946dc1b1711</id>
+      <masked>false</masked>
+      <name>syarat2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>03e0edba-eaa6-4b19-a2eb-f69aac8df676</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d04cf3b-b092-493f-8320-e953083c4ede</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

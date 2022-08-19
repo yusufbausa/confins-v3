@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transfer Doc Checkin Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ba1335c-737a-4c45-9fbf-a02430e4da14</testCaseGuid>
+   <variable>
+      <defaultValue>'DSM0877'</defaultValue>
+      <description></description>
+      <id>0662a4a8-e8c5-4da4-bf1b-b4c3683b4461</id>
+      <masked>false</masked>
+      <name>usernameDestination</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>0c6c2b80-6d0f-4164-a9f8-2a7447d2b6d7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1defdea-519f-4e75-bf51-e2b8bf6fd18b</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>0f3fabdb-67ce-48dc-a743-54bc87bd45b6</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

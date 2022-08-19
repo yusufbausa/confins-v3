@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMS Approve - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71a23d30-c41d-4cd7-8cd1-008769ae7679</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be31fffc-5207-4875-ac59-d8660d330da6</id>
+      <masked>false</masked>
+      <name>usernameWF</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2304b28-38d6-402d-8057-05e4081fb5ca</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5137e097-4bf3-4216-86f4-3772734d1217</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/workflow/'</defaultValue>
+      <description></description>
+      <id>920a6804-6edf-4519-8962-5202ed6ba8f1</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

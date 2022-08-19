@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remedial Inventory Selling Receive - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63013b24-2c13-49ee-8898-5515a0215b4b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>259e64d7-c17b-461a-8166-1b457c7a13d2</id>
+      <masked>false</masked>
+      <name>usernameFH</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>480e94d0-7f2c-4ac7-b777-9428d6278ad0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a396d5b3-0e01-4afc-b64f-8d6f308fdb31</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc74e079-46ef-43e3-9582-627174e7e09c</id>
+      <masked>false</masked>
+      <name>receiveFrom</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e58e1d1-7bd5-4c38-baee-021ec850cea6</id>
+      <masked>false</masked>
+      <name>refNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>af9f094a-883a-4b69-b332-2532465d694a</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

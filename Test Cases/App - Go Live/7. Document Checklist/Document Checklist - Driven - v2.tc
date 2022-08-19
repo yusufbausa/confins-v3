@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Document Checklist - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>809542cb-2636-4ef8-a365-f18c65a82390</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b88894eb-4813-46ee-83f7-63f5d5f4a60a</id>
+      <masked>false</masked>
+      <name>usernameDC</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86f52d4b-755e-4b1c-9a1b-f2e995ee04f4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed82a4ec-6667-408d-872e-ebf9d7da6781</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c6e86444-69a8-48e1-b89e-7e24dba6d6f5</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

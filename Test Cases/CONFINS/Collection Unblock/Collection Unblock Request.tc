@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Collection Unblock Request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ba51211-a67c-468b-b688-d3dbc5157163</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-qa.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>6eec0eca-d396-4800-b596-90c4b7b5fcbd</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'AJK1196'</defaultValue>
+      <description></description>
+      <id>610ae014-48d1-4499-909c-01469a7dac8f</id>
+      <masked>false</masked>
+      <name>usernameFO</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>4f52f2f7-ffb4-4892-a1ad-72e2767039a1</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'2100801674'</defaultValue>
+      <description></description>
+      <id>588e1b6f-0fab-4934-99b7-e102b5289a78</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>eb3af08f-d7f5-4eaf-896e-585493941d66</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+   <variable>
+      <defaultValue>'SSJ1857'</defaultValue>
+      <description></description>
+      <id>5ea2dd8a-fe62-42ca-87ab-d6ee486d1a10</id>
+      <masked>false</masked>
+      <name>approvedBy</name>
+   </variable>
+</TestCaseEntity>

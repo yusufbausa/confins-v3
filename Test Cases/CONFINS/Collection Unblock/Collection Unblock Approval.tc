@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Collection Unblock Approval</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d780a07e-b3ee-4394-82e6-fe603b70ca2a</testCaseGuid>
+   <variable>
+      <defaultValue>'http://confins-qa.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>ef0a7e3c-39ff-438c-98c8-163182929ab5</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'SSJ1857'</defaultValue>
+      <description></description>
+      <id>3f7a839c-00f5-4255-8cb1-b06755a9a9e2</id>
+      <masked>false</masked>
+      <name>usernameRSO</name>
+   </variable>
+   <variable>
+      <defaultValue>'password'</defaultValue>
+      <description></description>
+      <id>2a194bf6-9c29-499a-9c0b-94855686dcfb</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'2100801674'</defaultValue>
+      <description></description>
+      <id>bcc22f65-5c06-4c4d-91ff-ed5ad11c198f</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'notes'</defaultValue>
+      <description></description>
+      <id>f1ce6e84-37f8-40b5-94b4-80027230ec3f</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Change Asset Inventory Expected Date Request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43fb6a92-fa7a-4d14-b7b5-1b3eb2ce8754</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b681ecca-acf8-4683-b7ea-e7da836eaee4</id>
+      <masked>false</masked>
+      <name>usernameAR</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9aaa668d-4744-4410-ad48-0442559f55cd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bda538d1-30c1-485a-8595-849844d3d5e6</id>
+      <masked>false</masked>
+      <name>agreeNo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e235d1e-e5fd-4509-9dd0-f7b5e44a6cf1</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6ab7acf-7592-4899-ae75-2d5d92d244de</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

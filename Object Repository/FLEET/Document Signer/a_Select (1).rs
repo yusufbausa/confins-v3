@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Select (1)</name>
+   <tag></tag>
+   <elementGuidId>b2a6b1b2-9f2f-41b2-bed8-195ba98b9dbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#uclOfficeEmp2_uclOfficeEmp_umd_ctl00_gvL_hpSelect_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='uclOfficeEmp2_uclOfficeEmp_umd_ctl00_gvL_hpSelect_1']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/form/div[5]/div[3]/div[3]/div[2]/table/tbody/tr[3]/td[2]/div/div/div/div/div[2]/div/div[1]/table/tbody/tr[3]/td[4]/a[count(. | //*[@ref_element = 'Object Repository/FLEET/Document Signer/iframe_Welcome, HELEN MELIANA SETIAWAN, FLE_5ee532']) = count(//*[@ref_element = 'Object Repository/FLEET/Document Signer/iframe_Welcome, HELEN MELIANA SETIAWAN, FLE_5ee532'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>uclOfficeEmp2_uclOfficeEmp_umd_ctl00_gvL_hpSelect_1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:OfficeEmpLookup('uclOfficeEmp2_uclOfficeEmp_txt','uclOfficeEmp2_uclOfficeEmp_hd1','A RIAN PATRIANSYAH','uclOfficeEmp2_uclOfficeEmp_hd2','CUSTOMER SERVICE OFFICER','uclOfficeEmp2_uclOfficeEmp_hd3','FLEET JAKARTA','uclOfficeEmp2_uclOfficeEmp_hd4','4665','uclOfficeEmp2_uclOfficeEmp_hd5','199','uclOfficeEmp2_uclOfficeEmp_hd6','238');;overlay('mdnuclOfficeEmp2_uclOfficeEmp');__doPostBack('mdnuclOfficeEmp2_uclOfficeEmp', '')</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/form/div[5]/div[3]/div[3]/div[2]/table/tbody/tr[3]/td[2]/div/div/div/div/div[2]/div/div[1]/table/tbody/tr[3]/td[4]/a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/FLEET/Document Signer/iframe_Welcome, HELEN MELIANA SETIAWAN, FLE_5ee532</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='uclOfficeEmp2_uclOfficeEmp_umd_ctl00_gvL_hpSelect_1']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='uclOfficeEmp2_uclOfficeEmp_umd_ctl00_gvL']/tbody/tr[3]/td[4]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Select')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FLEET JAKARTA'])[2]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOMER SERVICE OFFICER'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABIDA RUSDIANA'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOMER SERVICE OFFICER'])[2]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:OfficeEmpLookup('uclOfficeEmp2_uclOfficeEmp_txt','uclOfficeEmp2_uclOfficeEmp_hd1','A RIAN PATRIANSYAH','uclOfficeEmp2_uclOfficeEmp_hd2','CUSTOMER SERVICE OFFICER','uclOfficeEmp2_uclOfficeEmp_hd3','FLEET JAKARTA','uclOfficeEmp2_uclOfficeEmp_hd4','4665','uclOfficeEmp2_uclOfficeEmp_hd5','199','uclOfficeEmp2_uclOfficeEmp_hd6','238');;overlay('mdnuclOfficeEmp2_uclOfficeEmp');__doPostBack('mdnuclOfficeEmp2_uclOfficeEmp', '')&quot;)]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[4]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

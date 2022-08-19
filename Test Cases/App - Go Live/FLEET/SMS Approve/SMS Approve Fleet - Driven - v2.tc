@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SMS Approve Fleet - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33c35e88-8d86-4bec-8b25-7008e0c930dd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a19cdfca-edb5-4124-8db1-9e97e2f5164e</id>
+      <masked>false</masked>
+      <name>usernameWF</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea2cd598-424f-4123-af11-d57263de9e15</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>decc776e-b6f6-41cb-8b16-0a944c73afca</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/workflow/'</defaultValue>
+      <description></description>
+      <id>44fb6755-a40f-4d39-9632-25936e3d6909</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

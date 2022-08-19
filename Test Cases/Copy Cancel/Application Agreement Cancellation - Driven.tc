@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Application Agreement Cancellation - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92937762-3f58-4e91-bfc6-61f895da7e40</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>647cba59-c176-4a57-969d-bee435b9ce4f</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ecb3fb2-d138-492b-9650-87f01722aa0e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ebcd5fef-4b75-4f25-9a28-032d4a561171</id>
+      <masked>false</masked>
+      <name>appNo</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://confins-uat.taf.co.id/confins/'</defaultValue>
+      <description></description>
+      <id>5812f2a1-5c16-4006-b8f7-a1bde4a96c0f</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

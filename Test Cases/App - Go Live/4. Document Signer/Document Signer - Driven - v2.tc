@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Document Signer - Driven - v2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>352f8b22-4401-45dd-8282-ae80cfd8a768</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14d519f4-3ffe-4e20-b838-5ec32fc6dc7d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fd2c263-9202-4dbb-8b08-5a3b97886e23</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>27133ce5-8b53-4d79-a4e3-ae3c5348c14d</id>
+      <masked>false</masked>
+      <name>usernameDS</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c1b666a0-48d7-48ea-beca-e5ea27a36f62</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

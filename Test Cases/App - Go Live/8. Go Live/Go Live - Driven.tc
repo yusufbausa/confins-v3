@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Go Live - Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebfba34f-d717-45db-b2ee-911221044452</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bda98020-bd00-4608-bf6b-00eab3dec41b</id>
+      <masked>false</masked>
+      <name>usernameGL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>201e0165-0b8b-4515-931c-c7ebe56ad8ba</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>44741e3e-3805-428c-a5d1-be8d294d8148</id>
+      <masked>false</masked>
+      <name>appNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>19aec162-26f4-4206-822c-d416ccfe1773</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>
